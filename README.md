@@ -389,10 +389,14 @@ npx nitro-codegen
 
 See `CONTRIBUTING.md` for development setup and contribution guidelines.
 
-## License
-
-MIT © [Thành Công](https://github.com/tconns)
-
 ## Acknowledgements
 
 Built with [Nitro Modules](https://github.com/mrousavy/nitro) by Marc Rousavy.
+
+## License
+
+MIT © [Thành Công](https://github.com/tconns)
+          
+<a href="https://www.buymeacoffee.com/tconns94" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
+</a>
